@@ -1,0 +1,10 @@
+1. 右键→审查元素(W)
+
+2. 找到 Network→按F5→再点击旁边的空白页面
+
+3. 用↑↓箭头找到lyric.开头的文件→右键→Copy Response
+
+4. 再找到右上角的Console→按“a=”和“Ctrl＋V”→回车
+
+5. 输入a.lrc.lyric→回车→完成
+a.tlyric.lyric(翻译)
